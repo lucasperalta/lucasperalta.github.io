@@ -204,6 +204,21 @@ a:after {
 }
 
 
+
+
+#recomendwrap {
+	background: #f2f2f2;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	color: #2f2f2f;
+}
+
+#recomendwrap p {
+	color: #2f2f2f!important;
+}
+
+
+
 #skillswrap {
 	background: #2c3e50;
 	padding-top: 60px;
@@ -264,6 +279,7 @@ a:after {
 
 .desc p {
 	color: #2f2f2f;
+	
 }
 
 .desc t {
@@ -278,7 +294,7 @@ a:after {
 }
 
 .desc more {
-	color: #95a5a6;
+	color: #1A2D2E;
 }
 
 
